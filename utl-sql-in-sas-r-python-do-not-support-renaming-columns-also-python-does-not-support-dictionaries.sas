@@ -4,6 +4,10 @@
 
 SQL in sas r python do not support renaming columns also python does not support dictionaries
 
+github                                                                                                                              
+https://tinyurl.com/2s3txmdd                                                                                                        
+https://github.com/rogerjdeangelis/utl-sql-in-sas-r-python-do-not-support-renaming-columns-also-python-does-not-support-dictionaries
+
 SOAPBOX ON
 
 Note: I am interested in remaing columns in r sqldf and python
